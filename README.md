@@ -7,4 +7,4 @@ learning new things all the time!
 I am currently learning Kotlin via the Google Associate Android Dev course and 
 Kotlin Basics at the JetBrains Academy.  
 
-I am looking to collaborate on anything at entry/junior level. 
+
